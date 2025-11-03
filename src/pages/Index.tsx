@@ -21,7 +21,7 @@ const Index = () => {
             src="/src/assets/logo.png"
             alt="Facility Car"
             className="h-10 w-auto"
-          /img>
+          /i>
           <p className="text-2xl md:text-3xl mb-4 font-light">
             Mobilidade para Todos
           </p>
