@@ -18,7 +18,7 @@ const Index = () => {
         />
         <div className="container mx-auto px-4 z-10 text-center text-white">
           <img
-            src="/src/assets/logo.png"
+            src="/logo.png"
             alt="Facility Car"
             className="h-10 w-auto"
           />
