@@ -17,9 +17,11 @@ const Index = () => {
           }}
         />
         <div className="container mx-auto px-4 z-10 text-center text-white">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-            Facility Car
-          </h1>
+          <img
+            src="/src/assets/logo.png"
+            alt="Facility Car"
+            className="h-10 w-auto"
+          />
           <p className="text-2xl md:text-3xl mb-4 font-light">
             Mobilidade para Todos
           </p>
