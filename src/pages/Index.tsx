@@ -16,8 +16,8 @@ const Index = () => {
             backgroundPosition: 'center',
           }}
         />
-        <div className="container mx-auto px-4 z-10 text-center text-white">
-          <img flex justify-center items-center h-20 src="/logo.png" alt="Facility Car" className="h-32 w-auto" />
+        <div className="container flex justify-center items-center h-20 text-center text-white">
+          <img src="/logo.png" alt="Facility Car" className="h-32 w-auto" />
           <p className="text-2xl md:text-3xl mb-4 font-light">
             Mobilidade para Todos
           </p>
