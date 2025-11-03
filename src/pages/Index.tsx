@@ -17,7 +17,7 @@ const Index = () => {
           }}
         />
        <div className="container mx-auto px-4 z-10 text-center text-white">
-          <img src="/logo.png" alt="Facility Car" className="h-32 w-auto" />
+          <img src="/logo.png" alt="Facility Car" className="h-32 w-auto mx-auto" />
           <p className="text-2xl md:text-3xl mb-4 font-light">
             Mobilidade para Todos
           </p>
